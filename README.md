@@ -1,4 +1,4 @@
-# -Introduction
+# Introduction
 - 👋 Hi, I’m Mukesh Rauniyar.
 - 👀 I’m interested in Full Stack Web Development and App Development.
 - 🌱 I’m currently learning B.Tech 4th Year.
